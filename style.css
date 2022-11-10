@@ -58,10 +58,10 @@ h3 {
   align-items: center;
   gap: 10px;
 }
-/* .red {
+.red {
   background-color: red;
-  width: 
-} */
+  width: 100px;
+} 
 #body div{
   width: 150px;
   height: 150px;
