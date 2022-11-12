@@ -115,4 +115,14 @@ header img {
 #blue {
   background-image: linear-gradient(180deg, #5caae6, #2f5f93)
 }
+#purple {
+  background-image: linear-gradient(180deg, #c481ed, #8d0ad4)
+}
+.brown {
+  background-image: linear-gradient(180deg, #e6ad5c, #a06910)
+}
+#pink {
+  background-image: linear-gradient(180deg, #e2b4e9, #d767db)
+}
+
 
